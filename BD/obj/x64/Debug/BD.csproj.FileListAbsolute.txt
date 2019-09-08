@@ -1,0 +1,14 @@
+C:\Users\anast\Desktop\5_семестр\БД\Курсовая\BD\BD\bin\x64\Debug\BD.exe.config
+C:\Users\anast\Desktop\5_семестр\БД\Курсовая\BD\BD\bin\x64\Debug\BD.exe
+C:\Users\anast\Desktop\5_семестр\БД\Курсовая\BD\BD\bin\x64\Debug\BD.pdb
+C:\Users\anast\Desktop\5_семестр\БД\Курсовая\BD\BD\obj\x64\Debug\BD.Clients.resources
+C:\Users\anast\Desktop\5_семестр\БД\Курсовая\BD\BD\obj\x64\Debug\BD.Department.resources
+C:\Users\anast\Desktop\5_семестр\БД\Курсовая\BD\BD\obj\x64\Debug\BD.Doctors.resources
+C:\Users\anast\Desktop\5_семестр\БД\Курсовая\BD\BD\obj\x64\Debug\BD.MainForm.resources
+C:\Users\anast\Desktop\5_семестр\БД\Курсовая\BD\BD\obj\x64\Debug\BD.Procedure.resources
+C:\Users\anast\Desktop\5_семестр\БД\Курсовая\BD\BD\obj\x64\Debug\BD.Properties.Resources.resources
+C:\Users\anast\Desktop\5_семестр\БД\Курсовая\BD\BD\obj\x64\Debug\BD.Report.resources
+C:\Users\anast\Desktop\5_семестр\БД\Курсовая\BD\BD\obj\x64\Debug\BD.csproj.GenerateResource.Cache
+C:\Users\anast\Desktop\5_семестр\БД\Курсовая\BD\BD\obj\x64\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\anast\Desktop\5_семестр\БД\Курсовая\BD\BD\obj\x64\Debug\BD.exe
+C:\Users\anast\Desktop\5_семестр\БД\Курсовая\BD\BD\obj\x64\Debug\BD.pdb
